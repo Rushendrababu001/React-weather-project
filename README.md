@@ -24,7 +24,7 @@ Deployment: Netlify
 
 📸 Screenshots
 
-![App Screenshot](screenshot.png)
+![App Screenshot](project3.png)
 
 ⚙️ Installation & Setup
 

@@ -31,8 +31,8 @@ Deployment: Netlify
 Clone the repo
 
 git clone https://github.com/your-username/React-weather-project.git
-cd React-weather-project
 
+cd React-weather-project
 
 Install dependencies
 
@@ -40,10 +40,9 @@ npm install
 
 
 Add your OpenWeather API key in your code
+
 Example:
-
 const API_KEY = "YOUR_API_KEY";
-
 
 Run the app
 

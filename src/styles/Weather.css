@@ -1,0 +1,79 @@
+.image{
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 60px;
+}
+
+.temp{
+    font-size: xx-large;
+    justify-content: center;
+    display: flex;
+    color: black;
+
+}
+
+.city{
+    font-size: xx-large;
+    justify-content: center;
+    display: flex;
+    color: orange; 
+}
+
+.country{
+    font-size: large;
+    font-weight: 600;
+    justify-content: center;
+    display: flex;
+    color: black;
+}
+
+.lat-lon{
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.lat-lon div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.humid-air{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.humidity,.air {
+    width: 50px;
+    height: 50px;
+
+}
+
+.humidity-percentage {
+    font-size: large;
+    margin-left: 20px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.air-speed{
+    font-size: large;
+
+}
+
+.humidity-text, .air-text{
+    font-size: larger;
+    font-weight: 400;
+    justify-content: center;
+}

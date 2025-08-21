@@ -1,0 +1,54 @@
+.input-page{
+   width: 350px;
+   padding: 20px;
+   background-color: white;
+   border-radius: 8px;
+}
+
+.input-page2{
+    display: flex;
+    align-items: center;
+    height: 30px;
+    border: none;
+    font-size: 16px;
+}
+
+.input-search{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    border: 2px solid #bbb;
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 5px;
+    outline: none;
+}
+
+.search-icon{
+    width: 25px;
+    height: 25px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.humidity{
+    width: 25px;
+    height: 25px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.air{
+    width: 25px;
+    height: 25px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.nocity{
+    font-size: xx-large;
+    text-align: center;
+    color: #bbb;
+    
+}
+

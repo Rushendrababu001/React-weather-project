@@ -53,5 +53,5 @@ Build for production
 
 npm run build
 
-🌐 Live Demo
+🌐 Live Demo: https://react-js-weatherapp.netlify.app/
 
